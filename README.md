@@ -19,7 +19,7 @@ when decisions are noisy, suboptimal, or context-dependent.
 - Task implementations used in human experiments
 - Behavioral analysis and modeling code
 - Data validation and preprocessing scripts
-- Contributions to larger research toolchains (including prior work on neuroimaging pipelines such as [`xcp_d`](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00257/123715/XCP-D-A-robust-pipeline-for-the-post-processing-of)
+- Contributions to larger research toolchains (including prior work on neuroimaging pipelines such as [`xcp_d`](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00257/123715/XCP-D-A-robust-pipeline-for-the-post-processing-of))
 
 Some repositories have project- or paper-linked names and are kept
 stable for reproducibility.
