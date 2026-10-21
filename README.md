@@ -1,6 +1,3 @@
-
-### [Google Scholar](https://scholar.google.com/citations?user=u_Y_gJYAAAAJ&hl=en&oi=ao)
-
 I'm a Neurobiology & Behavior PhD student at Columbia (Nuttida Lab), working on decision-making under uncertainty using behavioral tasks, computational modeling, and human single-neuron/iEEG recordings. 
 I'm increasingly focused on building interpretable models of cognition and working at the intersection of neuroscience and AI.
 
@@ -34,3 +31,6 @@ I'm happy to collaborate on:
 - Research code that prioritizes clarity and reproducibility, simplifying and/or standardizing the scientific process
 
 If something here is useful, feel free to use it or reach out.
+
+
+### [Google Scholar](https://scholar.google.com/citations?user=u_Y_gJYAAAAJ&hl=en&oi=ao)
